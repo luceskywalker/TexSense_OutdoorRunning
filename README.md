@@ -2,7 +2,8 @@
 This repository contains analysis code and kinetic data of 26 participants during outdoor running at six different speeds. The analysis includes time normalization, calculation of mean steps, and statistical analysis using SPM (Statistical Parametric Mapping). Additionally, we provide a Jupyter notebook for plotting individual data and creating reports.
 
 The presented code and data are used in following publications:
- - Höschler, L., Halmich, C., Čigoja, S., Ullirch, M., Koelewijn, A.D., Schwameder, H. (2025). Joint Kinetics and Ground Reaction Forces During Outdoor Running: A Wearable Sensor Study. 
+ - Höschler, L., Halmich, C., Čigoja, S., Ullirch, M., Koelewijn, A.D., Schwameder, H. (2026). Running speed modulates joint kinetics and ground
+reaction forces during outdoor running: a wearable sensor study. *Current Issues in Sport Science 11*(3). doi: 10.36950/2026.3ciss003.
 
 The project TexSense is funded within the context of WISS 2025, der Wissenschafts- und Innovationsstrategie 2025, by the federal state of Salzburg.
 
